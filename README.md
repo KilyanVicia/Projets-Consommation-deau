@@ -1,4 +1,4 @@
-# 💧 Consdeau — Gestion intelligente de la consommation d'eau
+# 💧 Consdeau — Gestion intelligente de la consommation d'eau (2025)
 
 Application embarquée et graphique permettant de surveiller, analyser et limiter
 la consommation d'eau d'un foyer en temps réel.
